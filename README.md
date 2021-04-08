@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+[![codecov](https://codecov.io/gh/MatthewG-Tech/TheNewCovidTracker/branch/master/graph/badge.svg?token=CWLMU9U9EM)](https://codecov.io/gh/MatthewG-Tech/TheNewCovidTracker)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
