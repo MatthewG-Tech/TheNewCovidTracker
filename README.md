@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 [![codecov](https://codecov.io/gh/MatthewG-Tech/TheNewCovidTracker/branch/master/graph/badge.svg?token=CWLMU9U9EM)](https://codecov.io/gh/MatthewG-Tech/TheNewCovidTracker)
+[![GitHub license](https://img.shields.io/github/license/MatthewG-Tech/TheNewCovidTracker)](https://github.com/MatthewG-Tech/TheNewCovidTracker/blob/master/LICENSE)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=MatthewG-Tech_TheNewCovidTracker&metric=alert_status)](https://sonarcloud.io/dashboard?id=MatthewG-Tech_TheNewCovidTracker)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
