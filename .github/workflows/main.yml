@@ -36,6 +36,12 @@ jobs:
 
     - name: Run the tests and generate coverage report
       run: npm test -- --coverage
+      
+    - name: Start Dev Server
+      run: npm run start
+      
+    - name: Start Cypress
+      run: npm run cypress:run
 
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v1
